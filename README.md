@@ -1,3 +1,17 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1546_square.png" width="100" alt="Logo" />
+  <h1>Cloud Proxy Automator Pro</h1>
+  <p><b>A professional-grade, one-click desktop application for bypassing firewalls, managing multi-account isolation, and routing traffic via secure SSH tunnels through GitHub Codespaces.</b></p>
+  
+  <p>
+    <img src="https://img.shields.io/badge/Python-3.12+-blue.svg" alt="Python" />
+    <img src="https://img.shields.io/badge/GUI-CustomTkinter-orange.svg" alt="GUI" />
+    <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License" />
+    <img src="https://img.shields.io/badge/Platform-Windows-lightgrey.svg" alt="Platform" />
+  </p>
+</div>
+
+
 Proxy Automator Pro 🚀
 
 An automated GUI tool that instantly deploys a secure, cloud-based proxy server using your free GitHub Codespaces quota. Built with Python and CustomTkinter, this launcher handles authentication, repository setup, and SSH tunneling with a single click.
