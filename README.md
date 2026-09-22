@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1546_square.png" width="100" alt="Logo" />
-  <h1>Cloud Proxy Automator Pro</h1>
+  <h1>Proxy Automator Pro</h1>
   <p><b>A professional-grade, one-click desktop application for bypassing firewalls, managing multi-account isolation, and routing traffic via secure SSH tunnels through GitHub Codespaces.</b></p>
   
   <p>
